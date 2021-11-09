@@ -46,7 +46,7 @@ export default function Home() {
           >
             web developer
           </button>
-          , Graphuc designer and .
+          , Graphic designer and .
         </p>
         <div className={"flex flex-wrap space-x-4 mt-3"}>
           <Social href={"/github"} icon={<GitHub></GitHub>} />
